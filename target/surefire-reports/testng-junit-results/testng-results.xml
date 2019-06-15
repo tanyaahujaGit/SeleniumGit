@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-05-12T11:19:06Z" name="Surefire suite" finished-at="2019-05-12T11:19:06Z" duration-ms="0">
+    <groups>
+    </groups>
+    <test started-at="2019-05-12T11:19:06Z" name="Surefire test" finished-at="2019-05-12T11:19:06Z" duration-ms="0">
+      <class name="UdemyMaven.AppTest">
+        <test-method signature="testApp()[pri:0, instance:testApp(UdemyMaven.AppTest)]" started-at="2019-05-12T16:49:06Z" name="testApp" finished-at="2019-05-12T16:49:06Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApp -->
+      </class> <!-- UdemyMaven.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
